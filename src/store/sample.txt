@@ -1,0 +1,11 @@
+
+/src/store/
+
+All state management-related code, including Redux, Zustand, or any other global state management library
+
+## Example structure for Redux:
+
+index.ts (Root store setup)
+userSlice.ts (Example Redux slice)
+authSlice.ts (Authentication-related state management)
+.......

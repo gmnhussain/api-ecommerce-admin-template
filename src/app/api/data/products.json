@@ -1,0 +1,308 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "image": "products/10.png",
+    "price": 199.99,
+    "stock": 45,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "Ergonomic Office Chair",
+    "image": "products/2.png",
+    "price": 249.99,
+    "stock": 18,
+    "category": "Furniture",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "Smart Watch Series 5",
+    "image": "products/3.png",
+    "price": 299.99,
+    "stock": 32,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "name": "Organic Cotton T-Shirt",
+    "image": "products/4.png",
+    "price": 29.99,
+    "stock": 120,
+    "category": "Clothing",
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "Professional DSLR Camera",
+    "image": "products/5.png",
+    "price": 1299.99,
+    "stock": 8,
+    "category": "Electronics",
+    "status": "draft"
+  },
+  {
+    "id": "6",
+    "name": "Stainless Steel Water Bottle",
+    "image": "products/6.png",
+    "price": 24.99,
+    "stock": 75,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "7",
+    "name": "Vintage Leather Backpack",
+    "image": "products/7.png",
+    "price": 89.99,
+    "stock": 0,
+    "category": "Accessories",
+    "status": "archived"
+  },
+  {
+    "id": "8",
+    "name": "Gaming Mechanical Keyboard",
+    "image": "products/8.png",
+    "price": 99.99,
+    "stock": 50,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "9",
+    "name": "Bluetooth Soundbar",
+    "image": "products/9.png",
+    "price": 149.99,
+    "stock": 20,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "10",
+    "name": "Smart LED Desk Lamp",
+    "image": "products/10.png",
+    "price": 49.99,
+    "stock": 70,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "11",
+    "name": "4K Ultra HD Smart TV",
+    "image": "products/11.png",
+    "price": 799.99,
+    "stock": 12,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "12",
+    "name": "Electric Standing Desk",
+    "image": "products/12.png",
+    "price": 399.99,
+    "stock": 30,
+    "category": "Furniture",
+    "status": "active"
+  },
+  {
+    "id": "13",
+    "name": "Fitness Tracker Band",
+    "image": "products/13.png",
+    "price": 59.99,
+    "stock": 90,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "14",
+    "name": "Leather Office Notebook",
+    "image": "products/14.png",
+    "price": 19.99,
+    "stock": 150,
+    "category": "Accessories",
+    "status": "active"
+  },
+  {
+    "id": "15",
+    "name": "Noise Cancelling Earbuds",
+    "image": "products/5.png",
+    "price": 129.99,
+    "stock": 60,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "16",
+    "name": "Multi-Function Printer",
+    "image": "products/3.png",
+    "price": 249.99,
+    "stock": 25,
+    "category": "Office Supplies",
+    "status": "active"
+  },
+  {
+    "id": "17",
+    "name": "Wireless Gaming Mouse",
+    "image": "products/7.png",
+    "price": 49.99,
+    "stock": 85,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "18",
+    "name": "Digital Drawing Tablet",
+    "image": "products/12.png",
+    "price": 179.99,
+    "stock": 15,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "19",
+    "name": "Anti-Theft Laptop Backpack",
+    "image": "products/1.png",
+    "price": 59.99,
+    "stock": 40,
+    "category": "Accessories",
+    "status": "active"
+  },
+  {
+    "id": "20",
+    "name": "Stainless Steel Cookware Set",
+    "image": "products/9.png",
+    "price": 299.99,
+    "stock": 22,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "21",
+    "name": "Luxury Cotton Bedsheet",
+    "image": "products/6.png",
+    "price": 89.99,
+    "stock": 100,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "22",
+    "name": "Men's Formal Leather Shoes",
+    "image": "products/4.png",
+    "price": 119.99,
+    "stock": 55,
+    "category": "Clothing",
+    "status": "active"
+  },
+  {
+    "id": "23",
+    "name": "Wireless Charging Pad",
+    "image": "products/14.png",
+    "price": 29.99,
+    "stock": 80,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "24",
+    "name": "Minimalist Wooden Wall Clock",
+    "image": "products/2.png",
+    "price": 69.99,
+    "stock": 35,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "25",
+    "name": "Noise-Isolating Studio Headphones",
+    "image": "products/8.png",
+    "price": 199.99,
+    "stock": 10,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "26",
+    "name": "Smart Home Security Camera",
+    "image": "products/13.png",
+    "price": 149.99,
+    "stock": 28,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "27",
+    "name": "Ergonomic Gaming Chair",
+    "image": "products/3.png",
+    "price": 349.99,
+    "stock": 20,
+    "category": "Furniture",
+    "status": "active"
+  },
+  {
+    "id": "28",
+    "name": "Ultra Slim Laptop",
+    "image": "products/5.png",
+    "price": 999.99,
+    "stock": 14,
+    "category": "Electronics",
+    "status": "draft"
+  },
+  {
+    "id": "29",
+    "name": "Portable Bluetooth Speaker",
+    "image": "products/9.png",
+    "price": 79.99,
+    "stock": 50,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "30",
+    "name": "Premium Leather Wallet",
+    "image": "products/11.png",
+    "price": 49.99,
+    "stock": 75,
+    "category": "Accessories",
+    "status": "active"
+  },
+  {
+    "id": "31",
+    "name": "Adjustable Dumbbell Set",
+    "image": "products/4.png",
+    "price": 199.99,
+    "stock": 25,
+    "category": "Fitness",
+    "status": "active"
+  },
+  {
+    "id": "32",
+    "name": "Compact Air Fryer",
+    "image": "products/7.png",
+    "price": 129.99,
+    "stock": 40,
+    "category": "Home & Kitchen",
+    "status": "active"
+  },
+  {
+    "id": "33",
+    "name": "Smartphone Gimbal Stabilizer",
+    "image": "products/10.png",
+    "price": 149.99,
+    "stock": 30,
+    "category": "Electronics",
+    "status": "active"
+  },
+  {
+    "id": "34",
+    "name": "Wireless Video Doorbell",
+    "image": "products/12.png",
+    "price": 179.99,
+    "stock": 20,
+    "category": "Home Security",
+    "status": "active"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Electronics",
+    "parentId": null,
+    "status": "active",
+    "description": "Electronic gadgets and accessories"
+  },
+  {
+    "id": "2",
+    "name": "Laptops",
+    "parentId": "1",
+    "status": "active",
+    "description": "All types of laptops"
+  },
+  {
+    "id": "3",
+    "name": "Smartphones",
+    "parentId": "1",
+    "status": "active",
+    "description": "Latest smartphones and accessories"
+  },
+  {
+    "id": "4",
+    "name": "Furniture",
+    "parentId": null,
+    "status": "inactive",
+    "description": "Home and office furniture"
+  }
+]
