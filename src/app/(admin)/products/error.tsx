@@ -22,7 +22,7 @@ export default function Error() {
         </p>
         <div className="flex gap-2">
           <Button asChild variant="outline">
-            <a href="/products">Reload</a>
+            <Link href="/products">Reload</Link>
           </Button>
           {/* <Button asChild>
             <Link href="/">Return Home</Link>
