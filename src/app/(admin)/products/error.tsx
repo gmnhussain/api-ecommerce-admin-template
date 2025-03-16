@@ -11,19 +11,22 @@ export default function Error() {
         <div className="mb-4 rounded-full bg-muted p-3">
           <PlusCircle className="h-10 w-10 text-muted-foreground" />
         </div>
-        <h1 className="text-4xl font-bold tracking-tight">404</h1>
+        {/* <h1 className="text-4xl font-bold tracking-tight">404</h1>
         <h2 className="text-xl font-semibold mt-2">Page Not Found</h2>
         <p className="mt-4 mb-8 text-muted-foreground">
           We couldn&apos;t find the page you were looking for. The page might
           have been removed, renamed, or is temporarily unavailable.
+        </p> */}
+        <p className="mt-4 mb-8 text-muted-foreground">
+          Something went wrong to products!
         </p>
         <div className="flex gap-2">
           <Button asChild variant="outline">
-            <Link href="/dashboard">Go to Dashboard</Link>
+            <a href="/products">Reload</a>
           </Button>
-          <Button asChild>
+          {/* <Button asChild>
             <Link href="/">Return Home</Link>
-          </Button>
+          </Button> */}
         </div>
       </div>
     </div>

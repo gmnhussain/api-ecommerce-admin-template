@@ -41,7 +41,7 @@ export default function SearchComponent({
       <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
       <Input
         // placeholder="Search products..."
-        className="pl-8"
+        className="pl-8 shadow-none"
         // value={searchQuery}
         // onChange={(e) => handleSearch(e.target.value)}
         placeholder={placeholder}

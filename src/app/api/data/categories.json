@@ -9,14 +9,16 @@
   {
     "id": "2",
     "name": "Laptops",
-    "parentId": "1",
+    "_comment": "parentId: 1",
+    "parentId": "Electronics",
     "status": "active",
     "description": "All types of laptops"
   },
   {
     "id": "3",
     "name": "Smartphones",
-    "parentId": "1",
+    "_comment": "parentId: 2",
+    "parentId": "Laptops",
     "status": "active",
     "description": "Latest smartphones and accessories"
   },

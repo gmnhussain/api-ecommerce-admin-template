@@ -72,7 +72,7 @@ export default async function DemoPage() {
           </Breadcrumb>
         </div>
 
-        <Button>
+        <Button className="cursor-pointer">
           <PlusCircle className="mr-2 h-4 w-4" />
           Create Category
         </Button>

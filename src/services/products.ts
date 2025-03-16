@@ -5,7 +5,7 @@ import { API_BASE_URL } from '@/lib/config';
 import { getTokenFromSession } from '@/lib/session';
 
 export async function getAllProducts({ page = 1, query = '' }) {
-  await sleep(5000); // Simulate delay
+  await sleep(1000); // Simulate delay
 
   // Get session data
   const token = await getTokenFromSession();

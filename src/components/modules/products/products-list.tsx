@@ -77,7 +77,7 @@ export async function ProductsList() {
   //     product.category.toLowerCase().includes(searchQuery.toLowerCase())
   // );
 
-  const filteredProducts = products;
+  // const filteredProducts = products;
 
   // if (isLoading) {
   //   return <div>Loading products...</div>;
@@ -96,7 +96,7 @@ export async function ProductsList() {
         </TableRow>
       </TableHeader>
       <TableBody>
-        {filteredProducts.map((product: Product) => (
+        {products.map((product: Product) => (
           <TableRow key={product.id}>
             <TableCell>
               <div className="flex items-center gap-3">
