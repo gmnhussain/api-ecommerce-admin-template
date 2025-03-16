@@ -93,7 +93,7 @@ export const columns: ColumnDef<ProductCategory>[] = [
   },
   {
     id: 'actions',
-    header: 'Actions',
+    header: () => <div className="text-right">Actions</div>,
     cell: () => {
       // const category = row.original;
 
