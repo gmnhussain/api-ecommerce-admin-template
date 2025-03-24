@@ -6,7 +6,7 @@ import { PlusCircle } from 'lucide-react';
 import {
   Card,
   CardContent,
-  CardDescription,
+  // CardDescription,
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
@@ -50,7 +50,7 @@ export default async function DemoPage() {
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          {/* <h1 className="text-xl font-bold mb-4">Product Categories</h1> */}
+          <h1 className="text-2xl font-bold mb-2">Product Categories</h1>
           <Breadcrumb>
             <BreadcrumbList>
               <BreadcrumbItem>
@@ -78,13 +78,13 @@ export default async function DemoPage() {
         </Button>
       </div>
 
-      <Card className="shadow-none rounded-sm">
+      <Card className="shadow-none rounded-sm gap-0">
         <CardHeader>
           <CardTitle>Manage Categories</CardTitle>
-          <CardDescription>
+          {/* <CardDescription>
             Create and organize product categories to streamline navigation and
             improve product discovery in your store.
-          </CardDescription>
+          </CardDescription> */}
         </CardHeader>
 
         <CardContent>

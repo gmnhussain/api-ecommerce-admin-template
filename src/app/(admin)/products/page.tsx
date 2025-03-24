@@ -8,7 +8,7 @@ import {
   CardContent,
   CardHeader,
   CardTitle,
-  CardDescription,
+  // CardDescription,
 } from '@/components/ui/card';
 
 import {
@@ -44,7 +44,7 @@ export default async function ProductsPage() {
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <div>
-          {/* <h1 className="text-3xl font-bold">Products</h1> */}
+          <h1 className="text-2xl font-bold mb-2">Products</h1>
           <Breadcrumb>
             <BreadcrumbList>
               <BreadcrumbItem>
@@ -68,14 +68,15 @@ export default async function ProductsPage() {
         </Button>
       </div>
 
-      <Card className="shadow-none rounded-sm">
+      <Card className="shadow-none rounded-sm gap-0">
         <CardHeader>
           <CardTitle>Manage Products</CardTitle>
-          <CardDescription>
+          {/* <CardDescription>
             Create and organize products to streamline navigation and improve
             product discovery in your store.
-          </CardDescription>
+          </CardDescription> */}
         </CardHeader>
+        {/* <h1 className="px-6 text-lg font-medium">Manage Products</h1> */}
         <CardContent className="p-6">
           <div className="flex items-center mb-6">
             <Search placeholder="Search products..." />
