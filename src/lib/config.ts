@@ -3,10 +3,10 @@ export const SERVER_ENV = process.env.SERVER_ENV || 'local';
 export const SERVER =
   process.env.NODE_ENV === 'development'
     ? 'http://localhost:3000'
-    : 'https://api-ecommerce-admin.vercel.app';
+    : 'https://api-ecommerce-admin-template.vercel.app';
 
 // Extract hostname from SERVER
-export const SERVER_HOSTNAME = new URL(SERVER).hostname; // localhost || api-ecommerce-admin.vercel.app
+export const SERVER_HOSTNAME = new URL(SERVER).hostname; // localhost || api-ecommerce-admin-template.vercel.app
 
 export const APP_NAME = 'API Ecommerce Admin';
 
